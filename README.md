@@ -1,6 +1,6 @@
 ## Social skills
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dev_ludwigtomas/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tomáš-david-1ab071191)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tomáš-ludwig-496b6b20a)
 [![Personal](https://img.shields.io/badge/personal%20website-000000?style=for-the-badge&logo=About&logoColor=white)](http://ludwigtomas.cz/)
 
 
